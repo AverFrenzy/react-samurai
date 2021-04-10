@@ -1,0 +1,13 @@
+.dialogs {
+    display:grid;
+    grid-template-columns: 2fr 10fr;
+
+}
+
+.messageArea {
+   margin-left: 170px;
+}
+
+.button {
+    margin-left: 290px;
+}
